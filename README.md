@@ -35,7 +35,7 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=willdoescode&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mynameistito&show_icons=true&hide_border=false&line_height=20&title_color=ea4aed&icon_color=1b93c9&show_owner=true"></p>
 
 
 <h2 align="center">Visitor count: </h2>
