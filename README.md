@@ -24,7 +24,6 @@
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"></a>
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"></a>
-<a href="willdoescode"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
 <a href="https://www.apple.com/macos/catalina/"><img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white"></a>
